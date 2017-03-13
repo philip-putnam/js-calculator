@@ -9,6 +9,8 @@
 /bower_components
 vendor/
 .DS_store
+/build
+.env
 
 # misc
 /.sass-cache
